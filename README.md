@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Shabanavvr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Shabanavvr/Shabanavvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Shabanav
+- 👀 I’m interested in new technology and programming
+- 🌱 I’m currently learning about the web and building some exciting projects
+- ON MY JOURNEY IN EXPLORING,LEARNING AND BUILDING NEW STUFFS..
