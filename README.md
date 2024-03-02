@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shabanav
+- 👋 Hi, I’m @Shabana 
 - 👀 I’m interested in new technology and programming
 - 🌱 I’m currently learning about the web and building some exciting projects
 - ON MY JOURNEY IN EXPLORING,LEARNING AND BUILDING NEW STUFFS..
